@@ -1,0 +1,55 @@
+/* Gaya untuk body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  /* Gaya untuk judul */
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Gaya untuk navigasi navbar */
+  .navbar {
+    background-color: #ffffff;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  /* Gaya untuk bagian Carousel */
+  .carousel-item img {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  /* Gaya untuk bagian Card Pantai Terbaik */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  /* Gaya untuk bagian Aktivitas dan Fasilitas */
+  .py-5 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  /* Gaya untuk bagian Footer */
+  .footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+  }
+  
